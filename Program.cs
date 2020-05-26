@@ -10,6 +10,7 @@ namespace gitlab_synctest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Git sync test project");
         }
     }
 }
